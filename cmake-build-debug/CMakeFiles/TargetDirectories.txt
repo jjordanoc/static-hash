@@ -1,0 +1,3 @@
+C:/Users/rojot/OneDrive/Escritorio/bd2/repo/hash_estatico/cmake-build-debug/CMakeFiles/hash_estatico.dir
+C:/Users/rojot/OneDrive/Escritorio/bd2/repo/hash_estatico/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rojot/OneDrive/Escritorio/bd2/repo/hash_estatico/cmake-build-debug/CMakeFiles/rebuild_cache.dir
